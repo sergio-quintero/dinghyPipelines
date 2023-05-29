@@ -1,5 +1,5 @@
 {
-  "application": "training",
+  "application": "training2",
   "globals": {
       "bakedArtifactId": "helmBakedNginX"
 
